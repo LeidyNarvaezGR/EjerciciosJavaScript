@@ -22,10 +22,10 @@ function password(texto) {
   return resultado;
 }
 
-console.log(password("Hola"));
+console.log(password("Hellou"));
 
 
 console.log(password("Este es un ejercicio"));
 
 
-console.log(password("Valeri"));
+console.log(password("Leidy"));

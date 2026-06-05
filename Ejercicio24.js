@@ -10,10 +10,10 @@ function empiezanConA(arreglo) {
   return resultado;
 }
 
-console.log(empiezanConA(["Camilo", "Daniel", "Leidy", "Valeri"]));
+console.log(empiezanConA(["Daniel", "Valeri", "Leidy", "Camilo"]));
 
 
-console.log(empiezanConA(["avión", "casa", "árbol", "Amigo"]));
+console.log(empiezanConA(["carro", "hotel", "hoja", "Amigo"]));
 
 
-console.log(empiezanConA(["Sara", "Ian"]));
+console.log(empiezanConA(["Andres", "sarit"]));

@@ -13,6 +13,6 @@ function capitalizar(texto) {
   return resultado;
 }
 
-console.log(capitalizar("hola Valeri")); 
-console.log(capitalizar("Valeri es genial")); 
-console.log(capitalizar("Valeri Muñoz"));
+console.log(capitalizar("hola leidy")); 
+console.log(capitalizar("leidy es buena")); 
+console.log(capitalizar("leidy Narvaez"));
